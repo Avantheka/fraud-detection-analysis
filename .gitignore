@@ -5,11 +5,11 @@
 
 # Notebook checkpoints
 .ipynb_checkpoints/
+*.ipynb_checkpoints
 
 # Data folders
 data/
 Data/
-Notebook/
 
 # OS files
 .DS_Store
