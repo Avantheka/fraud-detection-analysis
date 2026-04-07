@@ -117,7 +117,7 @@ Designed a 3-page Power BI dashboard:
 
 ### Overview
 
-![Page 1](Images/dashboard_p1.png)
+![Page 1](Images/dashboard_P1.png)
 
 ### Model Validation
 
